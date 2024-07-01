@@ -1,0 +1,18 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "ex1": "tsx watch ex1.ts",
+    "ex2": "tsx watch ex2.ts",
+    "ex3": "tsx watch ex3.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "tsx": "^4.15.7"
+  }
+}
